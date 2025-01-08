@@ -1,7 +1,7 @@
 
 
 ## summary( general idea  of the  project )
-![](image.png)
+![](GAIL.png)
 
 # TORCS-GAIL: Deterministic Generative Adversarial Imitation Learning for TORCS
 
